@@ -1,0 +1,1 @@
+# maximed-nextjs
